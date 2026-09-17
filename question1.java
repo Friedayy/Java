@@ -1,3 +1,8 @@
+/*
+*Given are three numbers a b c 
+*Show that which number is the greatest
+*also show that if two numbers are equal using if else statement.
+*/
 import java.util.Scanner;
 public class question1 {
   public static void main(String[] args) {
