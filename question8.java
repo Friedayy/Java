@@ -17,17 +17,18 @@ public class question8 {
       System.out.println("Invalid input.");
     }
     else if(unit<=100){
-      calculation = 2 * unit;
+      calculation = (2 * unit);
       System.out.println("Bill is: " + calculation);
     }
     else if(unit<=200){
-      calculation = 2 * unit + (unit - 100) * 3;
+      calculation = (2 * 100) + ((unit - 100) * 3);
       System.out.println("Bill is: " + calculation);
     }
     else{
-      calculation = 3 * unit + (unit - 200) * 5;
+      calculation =(2 * 100) + (3 * 100) + ((unit - 200) * 5);
       System.out.println("Bill is: " + calculation);
     }
     scanner.close();
   }
 }
+
