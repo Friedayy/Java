@@ -1,0 +1,4 @@
+get a input from the user and findd sum of digits till single digits.
+questions based on left shift and right shift.
+left shift = * 2 and right shift = /2.          
+rounding off the questions.
